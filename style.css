@@ -42,6 +42,7 @@ body {
 }
 
 .crumb {
+    cursor: pointer;
     transition: color 0.5s;
 }
 
